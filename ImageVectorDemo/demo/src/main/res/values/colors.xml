@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="branding">#cdf</color>
+  <color name="branding_darker">#fdc</color>
+  <color name="simple_vector_stroke_color">#000000</color>
+  <color name="logo_fill_color">#000000</color>
+</resources>
